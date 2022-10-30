@@ -1,0 +1,35 @@
+.advantages {
+    padding: 70px 0 65px 0;
+    background-color: #f6f6f6;
+}
+.advantages__wrapper {
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;
+ }
+.advantages__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 278px;
+}
+.advantages__subtitle {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
+    color: #000;
+}
+.advantages__descr {
+    margin-top: 8px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+    a {
+        color: $main-color;
+        text-decoration: none;
+    }
+   
+
+    
